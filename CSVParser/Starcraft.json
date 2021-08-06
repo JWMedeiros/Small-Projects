@@ -1,0 +1,44 @@
+{
+    "SCUnit": [
+        {
+            "Name": "Marine",
+            "Race": "Terran",
+            "Cost": "50 Minerals"
+        },
+        {
+            "Name": "Battlecruiser",
+            "Race": "Terran",
+            "Cost": "400 Minerals, 300 Gas"
+        },
+        {
+            "Name": "Roach",
+            "Race": "Zerg",
+            "Cost": "75 Minerals, 25 Gas"
+        },
+        {
+            "Name": "Stalker",
+            "Race": "Protoss",
+            "Cost": "150 Minerals, 50 Gas"
+        },
+        {
+            "Name": "Zergling",
+            "Race": "Zerg",
+            "Cost": "25 Minerals"
+        },
+        {
+            "Name": "Seige Tank",
+            "Race": "Terran",
+            "Cost": "150 Minerals, 125 Gas"
+        },
+        {
+            "Name": "Reaper",
+            "Race": "Terran",
+            "Cost": "50 Minerals, 50 Gas"
+        },
+        {
+            "Name": "Zealot",
+            "Race": "Protoss",
+            "Cost": "100 Minerals"
+        }
+    ]
+}

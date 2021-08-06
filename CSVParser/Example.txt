@@ -1,0 +1,5 @@
+Unit;Race;Cost
+Marine;Terran;50 Minerals
+Battlecruiser;Terran;400 Minerals, 300 Gas
+Roach;Zerg;75 Minerals, 25 Gas
+Stalker;Protoss;150 Minerals, 50 Gas

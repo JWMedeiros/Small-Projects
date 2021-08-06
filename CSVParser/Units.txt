@@ -1,0 +1,5 @@
+Unit;Race;Cost
+Zergling;Zerg;25 Minerals
+Seige Tank;Terran;150 Minerals, 125 Gas
+Reaper;Terran;50 Minerals, 50 Gas
+Zealot;Protoss;100 Minerals
